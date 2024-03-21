@@ -1,0 +1,18 @@
+body{
+    background-color: #cce7e4;
+}
+
+footer{
+    text-align: center;
+    font-size: 15px;
+}
+
+#src{
+    text-align: end;
+}
+h2{
+    font-family: 'Bakso Sapi', sans-serif;
+}
+main{
+    padding: 50px;
+}
